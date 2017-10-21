@@ -37,10 +37,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/Capture"
-        tools:layout_editor_absoluteX="114dp"
-        tools:layout_editor_absoluteY="59dp" />
+        android:layout_width="255dp"
+        android:layout_height="125dp"
+        app:srcCompat="@drawable/parki_logo1"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="82dp" />
 
 </android.support.constraint.ConstraintLayout>
